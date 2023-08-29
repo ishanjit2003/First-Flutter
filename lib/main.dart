@@ -6,7 +6,7 @@ void main() {
         appBar: AppBar(
           backgroundColor: Colors.amber,
           title: const Center(child: Text("First Flutter")),
-          foregroundColor: Colors.black,
+          foregroundColor: Colors.grey,
         ),
         body: const Center(
             child: Image(
